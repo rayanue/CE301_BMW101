@@ -1,0 +1,21 @@
+model_id,model_name,price_gbp,body_type,powertrain,range_miles,seats,performance_score,family_score,luxury_score
+118i,BMW 118i (118i),28990,hatchback,petrol,,5,3,3,2
+218i_gc,BMW 218i Gran Coupé (218i_gc),32990,coupe,petrol,,4,3,2,3
+320i,BMW 320i (320i),36990,saloon,petrol,,5,3,3,3
+330e,BMW 330e plug-in hybrid (330e),42990,saloon,hybrid,38,5,4,4,4
+330d,BMW 330d (330d),44990,saloon,diesel,,5,4,4,4
+m340i,BMW M340i (m340i),58990,saloon,petrol,,5,5,2,4
+520d,BMW 520d exec saloon (520d),52990,saloon,diesel,,5,3,4,5
+ix1,BMW iX1 eDrive20 (ix1),44990,suv,ev,250,5,3,5,4
+i4,BMW i4 eDrive40 (i4),54990,coupe,ev,310,4,4,3,5
+x1_20i,BMW X1 sDrive20i (x1_20i),38990,suv,petrol,,5,3,5,3
+x3_30i,BMW X3 xDrive30i (x3_30i),51990,suv,petrol,,5,3,5,4
+x5_40i,BMW X5 xDrive40i (x5_40i),68990,suv,petrol,,7,4,5,5
+x7_40i,BMW X7 xDrive40i (x7_40i),84990,suv,petrol,,7,3,5,5
+m440i,BMW M440i xDrive (m440i),62990,coupe,petrol,,4,5,2,4
+m135i,BMW M135i xDrive (m135i),45990,hatchback,petrol,,5,5,3,3
+m2,BMW M2 (m2),57990,coupe,petrol,,4,5,2,3
+m3,BMW M3 (m3),86990,saloon,petrol,,5,5,3,4
+m4,BMW M4 (m4),84990,coupe,petrol,,4,5,2,4
+m5,BMW M5 (m5),112990,saloon,petrol,,5,5,4,5
+m8,BMW M8 (m8),134990,coupe,petrol,,4,5,2,5
